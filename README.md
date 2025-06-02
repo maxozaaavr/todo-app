@@ -4,13 +4,13 @@ Features:
 - Get all ists
 - Get list by ID
 - Update list
--Delete list
+- Delete list
 
 - Create item of list
 - Get all itmes
 - Get item by ID
 - Update item
--Delete item
+- Delete item
 
 # Technologies
 - Programming language: Go
